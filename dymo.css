@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Dymo';
+  src: url('https://static1.squarespace.com/static/66c399879b526953905c3430/t/67470f37a8a3561702f5991b/1732710199403/dymo-webfont.woff2') format('woff2'),
+       url('https://static1.squarespace.com/static/66c399879b526953905c3430/t/67470e16e3507b134d735fd0/1732709910782/dymo-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
